@@ -14,7 +14,7 @@ i found reflected xss in search input and i used the payload `<img src=x onerror
 
 best regards,
 
-0xSilent_Root
+0xSilent_Root, naggar023
 
 # Recommend Fix:
 
