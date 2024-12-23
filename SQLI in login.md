@@ -14,7 +14,7 @@ i found sql injection in login page and i used the payload **admin' OR 1=1 --** 
 
 best regards,
 
-0xSilent_Root , elnaggar
+0xSilent_Root , naggar023
 
 # Recommend Fix:
 
