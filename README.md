@@ -39,6 +39,5 @@
 ## What's included in this repo
 - `Owasp juice - Web pentest report v2.0.docx` — Full technical report (redacted/non-exploitable PoCs, severity, remediation).
 - Individual markdown writeups for each finding (e.g., `SQLI in login.md`, `XSS on Search.md`, etc.).
-- Supporting scripts used in lab (recon/fuzzing helpers). All scripts assume a local lab environment.
 
 ---
