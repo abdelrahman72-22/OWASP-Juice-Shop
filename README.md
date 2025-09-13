@@ -2,6 +2,7 @@
 
 **Project:** OWASP Juice Shop — Penetration Test (Dec 2024 – Jan 2025)  
 **Author:** Silent_Root , Naggar
+
 **Contents:** brief, non-exploitable summaries of validated findings. The full technical **REPORT** (`Owasp juice - Web pentest report v2.0.docx`) is included in this repository and contains scope, redacted reproduction steps, severity (CVSS where applicable), and remediation guidance for authorized reviewers.
 
 ---
